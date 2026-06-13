@@ -1,0 +1,6 @@
+{
+  "name": "Readersonic Shop",
+  "description": "Reading Gadgets all over Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
